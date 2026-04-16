@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jordan 👋
 
-<!--
-**jbons99/jbons99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a university student passionate about full-stack development and building real-world applications.
 
-Here are some ideas to get you started:
+## 💻 Projects
+- **SkyLens – Drone Monitoring Platform**  
+  A full-stack application using React, Node.js, and MongoDB that integrates a YOLO-based model to detect and track people and vehicles from aerial imagery.  
+  👉 https://github.com/jbons99/skylens-drone-monitoring-system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Frontend: React, Tailwind CSS  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+- Other: Python, OpenCV, YOLO  
+
+## 📈 Currently Learning
+- Building scalable full-stack applications  
+- Improving system design and backend architecture  
+
+## 📫 Contact
+- LinkedIn: (add your link)
