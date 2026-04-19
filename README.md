@@ -18,4 +18,4 @@ I'm a university student passionate about full-stack development and building re
 - Improving system design and backend architecture  
 
 ## 📫 Contact
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/jordan-bonserio-b14105239/
