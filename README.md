@@ -1,6 +1,23 @@
-# Hi, I'm Jordan 👋
+Hi, I'm Jordan 👋
 
-I'm a university student passionate about full-stack development and building real-world applications.
+I'm an IT student focused on infrastructure, automation, cybersecurity, and full-stack development.
+
+I build and deploy real-world systems including:
+- self-hosted Linux infrastructure
+- automation bots
+- AI-integrated web applications
+- monitoring environments
+- full-stack SaaS platforms
+
+Current interests:
+- cybersecurity
+- Linux infrastructure
+- cloud & DevOps
+- automation systems
+- AI-powered applications
+
+Tech stack:
+Python • JavaScript • React • Node.js • Linux • Docker • nginx • MongoDB • SQLite • Cloudflare
 
 ## 💻 Projects
 - **SkyLens – Drone Monitoring Platform**  
